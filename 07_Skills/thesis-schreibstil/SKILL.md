@@ -1,6 +1,6 @@
 ---
 name: thesis-schreibstil
-description: Wissenschaftlicher Schreibstil und Zitierweise nach den Vorgaben von Prof. Dr. Bettina Binder (Hochschule Pforzheim) für die Bachelorthesis. Verwende diesen Skill IMMER, wenn Kapitel, Abschnitte, Absätze oder Formulierungen der Thesis geschrieben, überarbeitet, korrigiert oder formatiert werden — auch bei "schreibe Kapitel X", "formuliere um", "verbessere den Text", "mach das wissenschaftlicher" oder beim Einfügen von Fußnoten und Zitaten.
+description: Menschlicher, professioneller wissenschaftlicher Schreibstil ohne KI-Merkmale (keine Gedankenstriche als Stilmittel, keine KI-Floskeln) und Zitierweise nach den Vorgaben von Prof. Dr. Bettina Binder (Hochschule Pforzheim) für die Bachelorthesis. Verwende diesen Skill IMMER, wenn Kapitel, Abschnitte, Absätze oder Formulierungen der Thesis geschrieben, überarbeitet, korrigiert oder formatiert werden — auch bei "schreibe Kapitel X", "formuliere um", "verbessere den Text", "mach das wissenschaftlicher" oder beim Einfügen von Fußnoten und Zitaten.
 ---
 
 # Thesis-Schreibstil (Vorgaben Prof. Binder)
@@ -17,9 +17,18 @@ Deutscher wissenschaftlicher Stil auf hohem akademischem Niveau — präzise, sa
 - Keine Reklame für den Ausbildungsbetrieb, keine Appelle.
 - Idealer Dreiklang pro Aussage: Behauptung mit Quellenbeleg → eigenes praktisches Beispiel → abgeleitete Konsequenz/Handlungsempfehlung. Die Eigenleistung muss erkennbar sein.
 
-## Menschlicher Duktus (KI-Muster vermeiden)
+## Menschlicher, professioneller Duktus — KI-Merkmale strikt vermeiden
 
-Vermeide typische KI-Merkmale: gleichförmige Satzlängen, Aufzählungs-Tripel ("effizient, transparent und datenbasiert" in jedem Absatz), inhaltsleere Überleitungen ("Es ist wichtig zu betonen, dass …"), Substantivierungsketten. Stattdessen: Satzlängen variieren, konkrete Zahlen und Beispiele aus dem Fallbeispiel einweben, Fachtermini präzise und konsistent verwenden, logische Verbindungen inhaltlich begründen ("Daraus folgt …, weil …").
+Der Text muss wie von einem sorgfältigen menschlichen Autor geschrieben wirken. Diese typischen KI-Merkmale sind VERBOTEN:
+
+- **Gedankenstriche als Stilmittel** (— oder –  mitten im Satz, wie KIs sie ständig setzen). Stattdessen: Komma, Klammer, Doppelpunkt oder zwei Sätze.
+- Aufzählungs-Tripel in jedem Absatz ("effizient, transparent und datenbasiert").
+- Floskel-Muster: "Es ist wichtig zu betonen, dass …", "In der heutigen Zeit …", "spielt eine entscheidende/zentrale Rolle", "Zusammenfassend lässt sich sagen", "nicht nur …, sondern auch …" (in Häufung).
+- Perfekt parallele Absatzstrukturen (jeder Absatz gleich lang, gleich aufgebaut).
+- Übermäßige Fett-Markierungen im Fließtext, Doppelpunkt-Überschriften ("KI im Controlling: Eine Analyse"), Emojis.
+- Gleichförmige Satzlängen und -anfänge; Substantivierungsketten ("die Durchführung der Implementierung der Digitalisierung").
+
+Stattdessen: Satzlängen bewusst variieren (kurze Feststellungen neben längeren Begründungen), konkrete Zahlen und Beispiele aus dem Fallbeispiel einweben, Fachtermini präzise und konsistent verwenden, logische Verbindungen inhaltlich begründen ("Daraus folgt …, weil …"), Absätze nach Gedankengang statt nach Schema gliedern. Vor Abgabe eines Abschnitts: laut "mitlesen" — klingt ein Satz nach Textbaustein, umformulieren.
 
 ## Zitierweise (Fußnoten, NICHT Harvard im Text)
 

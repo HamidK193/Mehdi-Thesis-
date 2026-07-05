@@ -22,6 +22,16 @@ Systematische Literaturrecherche für die Bachelorarbeit. Ziel: mindestens 30 ho
 4. **Dokumentieren** — sofort, nicht später (siehe unten).
 5. **Kernaussagen exzerpieren** mit exakter Seitenzahl in `02_Recherche/` (eine Datei pro Kapitel, z.B. `Kap2_Notizen.md`). Warum sofort mit Seitenzahl: Fußnoten verlangen später exakte Seitenangaben, Nachrecherche kostet Stunden.
 
+## Verifikation (Pflicht, vor Aufnahme in die Quellenliste)
+
+Recherchierte Quellen enthalten oft Fehler oder existieren gar nicht (KI-Halluzinationen, veraltete Angaben, falsche Seitenzahlen). Deshalb wird JEDE Quelle vor Verwendung verifiziert:
+
+1. **Existenz belegen:** Quelle über eine zweite, unabhängige Suche bestätigen (Verlagsseite, DOI, Bibliothekskatalog wie DNB/WorldCat, Zeitschriftenarchiv). Die Seite tatsächlich öffnen, nicht nur das Suchergebnis lesen.
+2. **Bibliografische Daten abgleichen:** Autor, Jahr, Auflage, Titel, Verlagsort, Jahrgang/Heft, Seitenzahlen exakt gegen die Originalquelle prüfen.
+3. **Aussage-Beleg prüfen:** Die Aussage, die belegt werden soll, muss in der Quelle tatsächlich auffindbar sein (Volltext oder Leseprobe öffnen). Nie aus dem Gedächtnis oder aus Zusammenfassungen Dritter zitieren.
+4. **Unabhängige Zweitprüfung:** Bei zentralen oder überraschenden Aussagen ein zweites Recherche-Tool (z.B. perplexity-web-research oder Tavily) als unabhängigen Prüfer nutzen.
+5. **Markierung:** Erst nach bestandener Prüfung mit ✓ in die Quellenliste; ungeprüfte Kandidaten separat unter "Unverifiziert" führen.
+
 ## Pflicht: Quellenliste pflegen
 
 Jede verwendbare Quelle sofort in `01_Literatur/Quellenliste.md` eintragen, bereits im Format des Literaturverzeichnisses (Jahreszahl-Methode nach Prof. Binder):

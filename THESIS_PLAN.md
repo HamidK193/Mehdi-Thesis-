@@ -5,7 +5,7 @@
 **Betreuung:** Prof. Dr. Bettina Binder
 **Methodik:** Literaturarbeit mit Praxisbezug (Fallbeispiel), kein empirischer Teil
 **Zeitrahmen:** Abgabe in wenigen Wochen → Plan auf 5 Arbeitswochen ausgelegt, anpassbar
-**Version:** 1.0 · Stand: 05.07.2026
+**Version:** 1.1 · Stand: 05.07.2026
 
 > Dieses Dokument wird bei jedem Arbeitsschritt aktualisiert: Status, Erkenntnisse,
 > Gliederungsänderungen und offene Punkte werden hier gepflegt. Änderungen im Änderungslog (Abschnitt 9) festhalten.
@@ -23,6 +23,7 @@
 
 | Phase | Woche | Inhalt | Status |
 |---|---|---|---|
+| P0 – Werkzeuge | W1 | Ordnerstruktur, Skills (Recherche/Schreibstil), Tavily, Git-Repo | ✅ erledigt (Push auf GitHub ausstehend) |
 | P1 – Setup | W1 | Word-Dokumentvorlage nach Formalia anlegen, Literaturliste starten (Ziel: 30+ Quellen identifiziert), Kap. 1 Entwurf | ⬜ offen |
 | P2 – Theorie | W1–W2 | Kap. 2 (Projektcontrolling Bau) + Kap. 3 (KI im Controlling) schreiben | ⬜ offen |
 | P3 – Praxisteil | W2–W3 | Kap. 4 (Fallbeispiel-Analyse) + Kap. 5 (Vorgehensmodell) | ⬜ offen |
@@ -95,8 +96,25 @@ Hochdeutsch, keine zu langen Sätze, kein Ich/Wir, keine Übertreibungen („hoh
 - [ ] 1 Tag Ruhe, dann finale Durchsicht (Rechtschreibung, Grammatik, Zeichensetzung)
 - [ ] Finale Version in `06_Abgabe/`
 
-## 9. Änderungslog
+## 9. Werkzeuge & Sicherung
+
+**Installierte Skills (werden bei jeder Arbeit angewendet):**
+
+- `thesis-recherche` — Literaturrecherche mit Pflicht-Verifikation jeder Quelle (Existenz, bibliografische Daten, Aussage-Beleg, Zweitprüfung)
+- `thesis-schreibstil` — menschlicher, professioneller Stil ohne KI-Merkmale (keine Gedankenstriche als Stilmittel, keine Floskeln), Fußnoten nach Prof. Binder
+- `tavily` — tiefe Web-Recherche mit Zitaten + URL-Extraktion zur Verifikation
+- `perplexity-web-research` — unabhängiger Zweitprüfer bei zentralen Aussagen
+- `docx` / `pptx` — Word-Hauptdokument und PPT-Foliensatz
+
+**Sicherung (GitHub):**
+
+- Repo: https://github.com/HamidK193/Mehdi-Thesis-
+- Regel: Nach jedem abgeschlossenen Arbeitsschritt committen; am Ende jeder Session pushen (Token wird bei Bedarf bereitgestellt)
+- Status: 3 Commits lokal, erster Push ausstehend (Token fehlt noch)
+
+## 10. Änderungslog
 
 | Datum | Version | Änderung |
 |---|---|---|
 | 05.07.2026 | 1.0 | Plan erstellt auf Basis Exposé + Vorgaben Prof. Binder |
+| 05.07.2026 | 1.1 | Skills erstellt und installiert (Recherche mit Verifikationspflicht, Schreibstil ohne KI-Merkmale), Tavily eingerichtet, Git-Repo initialisiert, Abschnitt „Werkzeuge & Sicherung" ergänzt |

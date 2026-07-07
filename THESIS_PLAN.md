@@ -5,7 +5,9 @@
 **Betreuung:** Prof. Dr. Bettina Binder
 **Methodik:** Literaturarbeit mit Praxisbezug (Fallbeispiel), kein empirischer Teil
 **Zeitrahmen:** Abgabe in wenigen Wochen → Plan auf 5 Arbeitswochen ausgelegt, anpassbar
-**Version:** 1.1 · Stand: 05.07.2026
+**Version:** 1.2 · Stand: 05.07.2026
+**Balance:** ca. 50 % Theorie (Kap. 2–3) / 50 % Praxis (Kap. 4–8) · Zielumfang ~58 Seiten
+**Recherche-Methodik:** Fünf-Phasen-Modell nach vom Brocke et al. (2009) mit Suchprotokoll und Konzeptmatrix (siehe Skill thesis-recherche); für jeden weiteren Arbeitsschritt wird eine etablierte professionelle Vorgehensweise gewählt und dokumentiert, ersatzweise hergeleitet (Entscheidungslog)
 
 > Dieses Dokument wird bei jedem Arbeitsschritt aktualisiert: Status, Erkenntnisse,
 > Gliederungsänderungen und offene Punkte werden hier gepflegt. Änderungen im Änderungslog (Abschnitt 9) festhalten.
@@ -32,19 +34,19 @@
 | P6 – Formalia | W5 | Verzeichnisse, Fußnoten-Check, Eidesstattliche Erklärung, Anhang, PPT-Foliensatz (10–15 Folien) | ⬜ offen |
 | P7 – Endkontrolle | W5 | 1 Tag ruhen lassen → finale Durchsicht, Rechtschreibung, Abgabe vorbereiten | ⬜ offen |
 
-## 3. Kapitel-Tracker (Ziel gesamt: 40–70 Seiten, angepeilt ~55)
+## 3. Kapitel-Tracker (Ziel gesamt: 40–70 Seiten, angepeilt ~58 · Theorie 24 S. / Praxis 27 S. ≈ 50/50)
 
 | Kap. | Titel | Seiten (ca.) | Status | Notizen |
 |---|---|---|---|---|
-| 1 | Einleitung und Problemstellung | 4 | ⬜ | Muss enthalten: Problemstellung, Zielformulierung, Innovationsgrad, Forschungslücke, Gedankenführung, Praxisrelevanz (aus Exposé übernehmbar) |
-| 2 | Grundlagen des operativen Projektcontrollings im Bauunternehmen | 10 | ⬜ | ~50 % Standardlehrbücher |
-| 3 | Künstliche Intelligenz im Controlling | 10 | ⬜ | aktuelle Fachliteratur nötig |
-| 4 | Analyse des Fallbeispiels | 7 | ⬜ | Daten in `04_Fallbeispiel_Daten/` sammeln; keine Reklame für Ausbildungsbetrieb |
-| 5 | Entwicklung des Vorgehensmodells | 9 | ⬜ | Kernstück / Eigenleistung; Modellgrafik in `05_Abbildungen/` |
-| 6 | Erprobung des Vorgehensmodells im Bauprojekt | 7 | ⬜ | |
-| 7 | Bewertung der Ergebnisse | 5 | ⬜ | Chancen, Grenzen, Voraussetzungen |
-| 8 | Handlungsempfehlungen für die Praxis | 4 | ⬜ | wissenschaftlich fundiert, keine Appelle |
-| 9 | Fazit und Ausblick | 3 | ⬜ | Pflicht: Fazit mit Handlungsempfehlungen |
+| 1 | Einleitung und Problemstellung | 4 | ⬜ | Rahmen: Problemstellung, Zielformulierung, Innovationsgrad, Forschungslücke, Vorgehensweise (inkl. Recherche-Methodik nach vom Brocke et al. 2009), Praxisrelevanz |
+| 2 | Grundlagen des operativen Projektcontrollings im Bauunternehmen | 12 | ⬜ | Theorie · ~50 % Standardlehrbücher |
+| 3 | Künstliche Intelligenz im Controlling | 12 | ⬜ | Theorie · aktuelle Fachliteratur nötig |
+| 4 | Analyse des Fallbeispiels | 7 | ⬜ | Praxis · Daten in `04_Fallbeispiel_Daten/`; keine Reklame für Ausbildungsbetrieb |
+| 5 | Entwicklung des Vorgehensmodells | 8 | ⬜ | Praxis · Kernstück / Eigenleistung; Modellgrafik in `05_Abbildungen/` |
+| 6 | Erprobung des Vorgehensmodells im Bauprojekt | 6 | ⬜ | Praxis |
+| 7 | Bewertung der Ergebnisse | 4 | ⬜ | Praxis · Chancen, Grenzen, Voraussetzungen |
+| 8 | Handlungsempfehlungen für die Praxis | 3 | ⬜ | Praxis · wissenschaftlich fundiert, keine Appelle |
+| 9 | Fazit und Ausblick | 2 | ⬜ | Pflicht: Fazit mit Handlungsempfehlungen |
 | — | Verzeichnisse, Anhang, Erklärung | — | ⬜ | |
 | — | PPT-Foliensatz (10–15 Folien, am Ende des Anhangs) | — | ⬜ | |
 
@@ -118,3 +120,4 @@ Hochdeutsch, keine zu langen Sätze, kein Ich/Wir, keine Übertreibungen („hoh
 |---|---|---|
 | 05.07.2026 | 1.0 | Plan erstellt auf Basis Exposé + Vorgaben Prof. Binder |
 | 05.07.2026 | 1.1 | Skills erstellt und installiert (Recherche mit Verifikationspflicht, Schreibstil ohne KI-Merkmale), Tavily eingerichtet, Git-Repo initialisiert, Abschnitt „Werkzeuge & Sicherung" ergänzt |
+| 05.07.2026 | 1.2 | Recherche-Methodik nach vom Brocke et al. (2009) verankert (Suchprotokoll, Konzeptmatrix), Theorie/Praxis auf 50/50 festgelegt, Seitenbudget auf ~58 angepasst, Grafiken/Tabellen als Eigenerstellung vorgesehen (matplotlib/canvas-design, keine 3D) |

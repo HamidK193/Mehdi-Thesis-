@@ -2,7 +2,9 @@
 
 ## Aktueller Stand (05.07.2026)
 
-**Phase:** P0 (Werkzeuge) abgeschlossen, P1 (Setup) steht an.
+**Betriebsmodus:** Autonomer Thesis-Agent (docs/autonomer_thesis_agent_prompt.md) — einheitsweise schreiben, jede Einheit sofort adversarial prüfen, Fortschritt hier + in docs/memory/ protokollieren.
+
+**Phase:** Agent-Phase 0/1 (Orientierung + Lückenkarte) abgeschlossen → als Nächstes Phase 2: Recherche K2.1 + Word-Vorlage. Arbeitsplan: docs/memory/arbeitsplan.md.
 
 **Erledigt:**
 

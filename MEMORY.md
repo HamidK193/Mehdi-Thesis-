@@ -11,14 +11,14 @@
 - Vorgaben Prof. Binder analysiert und in Plan + Skills überführt
 - Skills erstellt: `thesis-recherche` (mit Verifikationspflicht), `thesis-schreibstil` (menschlich, ohne KI-Merkmale); installiert + Kopien in `07_Skills/`
 - Tavily-Plugin installiert (Recherche + Verifikation)
-- Git-Repo initialisiert, 3+ Commits lokal
+- Git-Repo initialisiert und erfolgreich zu GitHub gepusht (https://github.com/HamidK193/Mehdi-Thesis-)
 
 **Offen / Nächste Schritte:**
 
-1. GitHub-Push: Repo https://github.com/HamidK193/Mehdi-Thesis- — wartet auf Personal Access Token von Hamid (Fine-grained, Contents: Read and write)
-2. P1 starten: Word-Dokumentvorlage nach Formalia anlegen (`03_Entwuerfe/` bzw. final `06_Abgabe/`)
-3. `01_Literatur/Quellenliste.md` anlegen und Recherche für Kap. 2 + 3 beginnen (Ziel: 30+ verifizierte Quellen)
-4. Kapitel 1 (Einleitung/Problemstellung) entwerfen — Inhalte weitgehend aus Exposé ableitbar
+1. P1 starten: Word-Dokumentvorlage nach Formalia anlegen (`03_Entwuerfe/` bzw. final `06_Abgabe/`)
+2. `01_Literatur/Quellenliste.md` anlegen und Recherche für Kap. 2 + 3 beginnen (Ziel: 30+ verifizierte Quellen)
+3. Kapitel 1 (Einleitung/Problemstellung) entwerfen — Inhalte weitgehend aus Exposé ableitbar
+4. Push-Hinweis: Token stellt Hamid pro Session bereit (nie im Repo speichern)
 
 **Wichtige Entscheidungen:**
 

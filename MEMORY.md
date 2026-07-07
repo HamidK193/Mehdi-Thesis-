@@ -4,7 +4,7 @@
 
 **Betriebsmodus:** Autonomer Thesis-Agent (docs/autonomer_thesis_agent_prompt.md) — einheitsweise schreiben, jede Einheit sofort adversarial prüfen, Fortschritt hier + in docs/memory/ protokollieren.
 
-**Phase:** Agent-Phase 0/1 (Orientierung + Lückenkarte) abgeschlossen → als Nächstes Phase 2: Recherche K2.1 + Word-Vorlage. Arbeitsplan: docs/memory/arbeitsplan.md.
+**Phase:** Autonomes Arbeiten läuft. Erledigt: Recherche-Einheit 1 (12 Quellen verifiziert), Word-Hauptdokument (Formalia-konform, alle Kapitel als Gerüst), Kap. 1 Entwurf v3 (QS bestanden 12/12, 3 Iterationen). Als Nächstes: Recherche-Vervollständigung (Branchenstudien, FN7-Beleg), dann Kap. 2 sobald PDFs in 01_Literatur/PDFs/ liegen; Kap.-1-Fußnoten nach PDF-Eingang präzisieren ([BELEG PRÜFEN]-Marker). Arbeitsplan: docs/memory/arbeitsplan.md.
 
 **Erledigt:**
 
@@ -33,3 +33,4 @@
 | Datum | Account | Erledigt |
 |---|---|---|
 | 05.07.2026 | Hamid (Fable 5) | Setup: Plan, Skills, Tavily, Git-Repo, CLAUDE.md/MEMORY.md |
+| 05.07.2026 | Hamid (Fable 5) | Agent-Modus: Master-Prompt, 12 Quellen verifiziert, Beschaffungsliste, Word-Hauptdokument erstellt, Kap. 1 geschrieben + QS bestanden (12/12) |

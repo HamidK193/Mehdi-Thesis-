@@ -26,7 +26,7 @@
 | Phase | Woche | Inhalt | Status |
 |---|---|---|---|
 | P0 – Werkzeuge | W1 | Ordnerstruktur, Skills (Recherche/Schreibstil), Tavily, Git-Repo | ✅ erledigt (Push auf GitHub ausstehend) |
-| P1 – Setup | W1 | Word-Dokumentvorlage nach Formalia anlegen, Literaturliste starten (Ziel: 30+ Quellen identifiziert), Kap. 1 Entwurf | ⬜ offen |
+| P1 – Setup | W1 | Word-Dokumentvorlage nach Formalia anlegen, Literaturliste starten (Ziel: 30+ Quellen identifiziert), Kap. 1 Entwurf | ✅ erledigt (12 Quellen, Rest wächst laufend) |
 | P2 – Theorie | W1–W2 | Kap. 2 (Projektcontrolling Bau) + Kap. 3 (KI im Controlling) schreiben | ⬜ offen |
 | P3 – Praxisteil | W2–W3 | Kap. 4 (Fallbeispiel-Analyse) + Kap. 5 (Vorgehensmodell) | ⬜ offen |
 | P4 – Anwendung | W3–W4 | Kap. 6 (Erprobung) + Kap. 7 (Bewertung) | ⬜ offen |
@@ -38,7 +38,7 @@
 
 | Kap. | Titel | Seiten (ca.) | Status | Notizen |
 |---|---|---|---|---|
-| 1 | Einleitung und Problemstellung | 4 | ⬜ | Rahmen: Problemstellung, Zielformulierung, Innovationsgrad, Forschungslücke, Vorgehensweise (inkl. Recherche-Methodik nach vom Brocke et al. 2009), Praxisrelevanz |
+| 1 | Einleitung und Problemstellung | 4 | 📝 | Rahmen: Problemstellung, Zielformulierung, Innovationsgrad, Forschungslücke, Vorgehensweise (inkl. Recherche-Methodik nach vom Brocke et al. 2009), Praxisrelevanz |
 | 2 | Grundlagen des operativen Projektcontrollings im Bauunternehmen | 12 | ⬜ | Theorie · ~50 % Standardlehrbücher |
 | 3 | Künstliche Intelligenz im Controlling | 12 | ⬜ | Theorie · aktuelle Fachliteratur nötig |
 | 4 | Analyse des Fallbeispiels | 7 | ⬜ | Praxis · Daten in `04_Fallbeispiel_Daten/`; keine Reklame für Ausbildungsbetrieb |

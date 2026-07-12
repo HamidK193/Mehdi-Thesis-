@@ -22,3 +22,14 @@
 - Branchenstudien Bau-Digitalisierung (McKinsey, PwC, Fraunhofer, Roland Berger) — frei verfügbar
 - Bau-Controlling-Spezialliteratur (Kalkulation/Kostensteuerung), EVM/Earned Value
 - Rückwärts-/Vorwärtssuche ab Abioye (2021) und Pan/Zhang (2021), sobald Volltexte vorliegen
+| 05.07.2026 | Websuche | Girmscheid Motzko "Kalkulation, Preisbildung und Controlling" | 11 | 1 | Springer 2013 verifiziert (DOI 10.1007/978-3-642-36637-6) |
+| 05.07.2026 | Websuche | McKinsey "Reinventing construction" 2017 | 10 | 1 | MGI Feb. 2017 verifiziert, freies Volltext-PDF (mckinsey.com) |
+| 05.07.2026 | Websuche | ICV Dream Car 2019 "Künstliche Intelligenz" | 10 | 0 | Nicht verifizierbar (nur Industrie 4.0/2015 und Demografie/2025 belegt) → verworfen |
+| 05.07.2026 | Websuche | Yin "Case Study Research and Applications" 6th ed. | 10 | 1 | Sage 2018 verifiziert (ISBN 978-1-5063-3616-9) |
+| 05.07.2026 | Websuche | CRISP-DM Chapman 2000 step-by-step guide | 10 | 1 | Verifiziert, freies PDF (Uni Kassel) |
+| 05.07.2026 | Websuche | DIN 69901-5 Projektmanagement Begriffe | 10 | 1 | Ausgabe 2009-01 verifiziert (DIN Media) |
+| 05.07.2026 | Websuche | Berner Kochendörfer Schach Baubetriebslehre 3 | 10 | 1 | 3. Aufl. 2025 verifiziert (ISBN 978-3-658-47552-9) |
+| 05.07.2026 | Websuche | PwC Digitalisierung Bauindustrie PDF | 8 | 1 | PwC 2020 verifiziert (freies PDF); PwC 2026 als Kandidat (PDF prüfen) |
+| 05.07.2026 | Websuche | Gläser Laudel Experteninterviews Auflage | 9 | 1 | 4. Aufl. 2010 verifiziert (VS Verlag, ISBN 978-3-531-17238-5) |
+| 05.07.2026 | Websuche | CMR 2021 KI Artikel s12176 | 10 | 2 | Weißenberger (0366-9) + Schäffer (0371-z) verifiziert, CMR Jg. 65 |
+| 05.07.2026 | Websuche | Handelsblatt/FAZ KI Baubranche 2025/2026 | 10 | 2 | 2 Handelsblatt-Artikel (2025, 2026) übernommen; Autor/Datum beim Abruf präzisieren |

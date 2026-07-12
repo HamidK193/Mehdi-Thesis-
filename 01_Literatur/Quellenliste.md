@@ -19,14 +19,27 @@ Format: Jahreszahl-Methode nach Prof. Binder. Statistik am Ende aktuell halten.
 | ✓ | Abioye S.O./Oyedele L.O./Akanbi L./Ajayi A./Davila Delgado J.M./Bilal M./Akinade O.O./Ahmed A. (2021), Artificial intelligence in the construction industry: A review of present status, opportunities and future challenges, in: Journal of Building Engineering, Jg. 44, 2021, Art. 103299 | Zeitschriftenaufsatz | 3 | KI im Bauwesen, Überblick | ScienceDirect/DOI 10.1016/j.jobe.2021.103299, Open Access (Brunel) |
 | ✓ | Pan Y./Zhang L. (2021), Roles of artificial intelligence in construction engineering and management: A critical review and future trends, in: Automation in Construction, Jg. 122, 2021, Art. 103517 | Zeitschriftenaufsatz | 3 | KI im Baumanagement, Review | ScienceDirect/DOI 10.1016/j.autcon.2020.103517 (Volltext hinter Paywall) |
 
+| ✓ | Girmscheid G./Motzko C. (2013), Kalkulation, Preisbildung und Controlling in der Bauwirtschaft: Produktionsprozessorientierte Kostenberechnung und Kostensteuerung, Berlin/Heidelberg 2013 | Lehrbuch | 2 | Baukalkulation, Kostensteuerung | Springer (DOI 10.1007/978-3-642-36637-6) |
+| ✓ | Berner F./Kochendörfer B./Schach R./Jünger H.C./Otto J./Sundermeier M. (2025), Grundlagen der Baubetriebslehre 3: Baubetriebsführung, 3. Aufl., Wiesbaden 2025 | Lehrbuch | 2 | Baubetriebsführung, Bauausführung | Springer (ISBN 978-3-658-47552-9), TU Dresden |
+| ✓ | DIN 69901-5 (2009), Projektmanagement – Projektmanagementsysteme – Teil 5: Begriffe, Berlin 2009 | Norm | 2 | Begriffsdefinitionen Projektmanagement | DIN Media (Ausgabe 2009-01) |
+| ✓ | Yin R.K. (2018), Case Study Research and Applications: Design and Methods, 6. Aufl., Thousand Oaks 2018 | Lehrbuch (Methodik) | 1/4 | Fallstudien-Methodik | Sage (ISBN 978-1-5063-3616-9) |
+| ✓ | Gläser J./Laudel G. (2010), Experteninterviews und qualitative Inhaltsanalyse als Instrumente rekonstruierender Untersuchungen, 4. Aufl., Wiesbaden 2010 | Lehrbuch (Methodik) | 1/4 | Methodik Experteninterview (WBL) | VS Verlag/Springer (ISBN 978-3-531-17238-5) |
+| ✓ | Chapman P./Clinton J./Kerber R./Khabaza T./Reinartz T./Shearer C./Wirth R. (2000), CRISP-DM 1.0: Step-by-step data mining guide, o.O. 2000 | Leitfaden | 5 | Referenz-Vorgehensmodell für Datenprojekte, Basis des eigenen Vorgehensmodells | Semantic Scholar, Uni Kassel (freies PDF) |
+| ✓ | McKinsey Global Institute (2017), Reinventing construction: A route to higher productivity, o.O. 2017 | Studie | 2/3 | Produktivitätslücke Bau, Technologiehebel | mckinsey.com (freies PDF) |
+| ✓ | PwC (2020), Digitalisierung der Bauindustrie 2020, o.O. 2020 | Studie | 3/4 | Digitalisierungsgrad deutsche Bauindustrie | pwc.de/buildingsmart.de (freies PDF) |
+| ✓ | Weißenberger B.E. (2021), Künstliche Intelligenz als Zukunftstechnologie im Controlling, in: Controlling & Management Review, Jg. 65, 2021 | Zeitschriftenaufsatz | 3 | KI-Einordnung Controlling, deutschsprachig | Springer (DOI 10.1007/s12176-021-0366-9) [Heft/Seiten nach Volltext präzisieren] |
+| ✓ | Schäffer U. (2021), „So viel Blackbox ist KI eigentlich nicht", in: Controlling & Management Review, Jg. 65, 2021 | Zeitschriftenaufsatz | 3 | KI-Akzeptanz/Blackbox-Diskussion | Springer (DOI 10.1007/s12176-021-0371-z) [Heft/Seiten nach Volltext präzisieren] |
+| ✓ | o.V. (2025), Warum die Baubranche beim Einsatz von KI hinterherhinkt, in: Handelsblatt, 2025 | Zeitungsartikel | 3 | KI-Adoption Bau (ifo-Zahlen), aktuell | handelsblatt.com [Autor/Nr./Datum beim Abruf präzisieren] |
+| ✓ | o.V. (2026), Die Bauindustrie redet über KI – arbeitet aber oft noch in 2D, in: Handelsblatt, 2026 | Zeitungsartikel | 3/4 | Diskrepanz KI-Diskurs vs. Praxis | handelsblatt.com [Autor/Nr./Datum beim Abruf präzisieren] |
+
 ## Unverifizierte Kandidaten
 
-- ICV Ideenwerkstatt (o.J.), Dream-Car-Bericht "Künstliche Intelligenz" — Existenz/Jahr noch bestätigen (ICV-Shop/Haufe)
-- Girmscheid G./Motzko C., Kalkulation, Preisbildung und Controlling in der Bauwirtschaft — Auflage prüfen
-- Künstliche Intelligenz, in: Controlling & Management Review (2021), DOI 10.1007/s12176-021-0370-0 — Autor/Heft prüfen
+- PwC (2026), Studie zur deutschen Bauindustrie (Digitalisierung) — aktuellste Ausgabe, PDF-Verfügbarkeit prüfen (pwc.de, BVMB-PM 13.05.2026)
+- ICV Ideenwerkstatt, Dream-Car-Bericht "Künstliche Intelligenz" — Existenz/Jahr nicht bestätigt, vorerst verworfen
+- Fraunhofer-Studie KI im Bauwesen — noch suchen bei Bedarf Kap. 3.3
 
 ## Statistik
 
-- Gesamt verifiziert: 12 / Ziel: 30+
-- Lehrbücher/Standardwerke: 6 · Aktuelle Fachliteratur/Aufsätze: 6 → Quote 50/50 ✓
-- Lücken: deutsche Fachaufsätze (Controlling-Zeitschriften), Studien (McKinsey/PwC/Fraunhofer), Bau-Controlling-Spezialliteratur, Quellen für K4–K8
+- Gesamt verifiziert: 24 / Ziel: 30-45 (Rest entsteht durch Rückwärts-/Vorwärtssuche beim Schreiben)
+- Lehrbücher/Standardwerke: 10 · Fachliteratur (Aufsätze, Studien, Norm, Leitfaden, Zeitungen): 14 → Quote ≈ 42/58, im Zielkorridor (50/50 angestrebt; beim Schreiben von Kap. 2 kommen Lehrbuch-Zitate hinzu)
+- Abdeckung: K1 ✓ · K2 ✓ (7 Quellen) · K3 ✓ (8) · K4 ✓ (Methodik; Falldaten von Hamid) · K5 ✓ (CRISP-DM + eigene Synthese) · K6/K7 (aus K2-K5 ableitbar) · K8 (aus Studien + Zeitungen) · Zeitungsquote (Binder: überregional) ✓

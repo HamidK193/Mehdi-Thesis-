@@ -34,3 +34,18 @@
 - ERLEDIGT: McKinsey 2017, PwC 2020 (PwC 2026 offen)
 - ERLEDIGT: Girmscheid/Motzko 2013, Berner et al. 2025, DIN 69901-5
 - Rückwärts-/Vorwärtssuche ab Abioye (2021) und Pan/Zhang (2021), sobald Volltexte vorliegen
+
+## Volltext-Beschaffung über HS-PF-Katalog (05.07.2026, via Browser durch Claude + Hamid)
+
+| Quelle | Status |
+|---|---|
+| Fiedler 2020, Kochendörfer 2021, Girmscheid 2016, Girmscheid/Motzko 2013, Berner et al. 2025, Ertel 2025, Langmann 2019, Schneider 2025 | ✅ komplette Buch-PDFs (SpringerLink) |
+| Weber/Schäffer 2022, 17. Aufl. | ✅ kapitelweise via Inlibra: Titelei, Teil I-IV, Literaturverzeichnis |
+| Horváth/Gleich/Seiter — WICHTIG: 15. Aufl. 2024 im Bestand (nicht 14./2020) | ✅ kapitelweise via Inlibra: Titelei, Kap. 1-5, Literaturverzeichnis |
+| vom Brocke 2009, Abioye 2021, CRISP-DM 2000, McKinsey 2017, PwC 2020 | ✅ freie PDFs geladen |
+| Webster/Watson 2002 | ⚠️ AISeL-Klick ausgeführt, Ankunft im Download-Ordner prüfen |
+| Pan/Zhang 2021 (ScienceDirect) | ❌ CAPTCHA — Hamid manuell |
+| CMR-Artikel Weißenberger + Schäffer 2021 | ❌ Paywall auf SpringerLink — via WISO/Springer Professional der Bibliothek |
+| Gläser/Laudel 2010 | ❌ kein E-Book-Zugriff — Print ausleihen (nur bei WBL-Interview nötig) |
+| Yin 2018 | ❌ vermutlich nur Print |
+| Handelsblatt-Artikel ×2 | ❌ via Bibliotheks-Pressezugang oder Abo |

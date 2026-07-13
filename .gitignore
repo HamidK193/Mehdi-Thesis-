@@ -2,3 +2,5 @@
 skills-lock.json
 .DS_Store
 ~$*
+01_Literatur/PDFs/*
+!01_Literatur/PDFs/.gitkeep

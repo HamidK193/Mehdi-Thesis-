@@ -19,6 +19,10 @@ Die gesamte Literaturrecherche folgt dem Fünf-Phasen-Modell von vom Brocke et a
 
 **Dokumentationspflicht (Kernaussage von vom Brocke et al.):** Jeder Suchlauf wird im `02_Recherche/Suchprotokoll.md` protokolliert: Datum, Datenbank/Suchmaschine, Suchstring, Trefferzahl, übernommene Treffer mit Begründung. Ohne Protokolleintrag gilt eine Suche als nicht durchgeführt.
 
+## Sprachregel (verbindlich)
+
+Primär deutschsprachige Quellen (Lehrbücher, deutsche Fachzeitschriften, deutsche Studien). Englische Quellen nur als begründete Ausnahme, wenn kein deutsches Äquivalent existiert (z.B. Methodikstandards, internationale Referenzmodelle); jede Ausnahme in der Quellenliste als „EN-Ausnahme" kennzeichnen und begründen.
+
 ## Rechercheprozess (pro Thema/Kapitel)
 
 1. **Suchbegriffe definieren** — deutsch UND englisch (z.B. "Projektcontrolling Bauwesen", "AI construction project controlling", "machine learning cost forecasting construction").

@@ -42,7 +42,7 @@ Der Gang der Untersuchung ergibt sich aus der Zielsetzung. Kapitel 2 legt die Gr
 [8] Vgl. Abioye S.O. et al. (2021). [BELEG PRÜFEN: genaue Fundstelle im OA-PDF]
 [9] Vgl. Schneider T. (2025). [BELEG PRÜFEN: Seitenzahl — Voraussetzungen/Hürden KI im Controlling; alternativ Ertel W. (2025) für Datenabhängigkeit]
 [10] Vgl. Kochendörfer B./Liebchen J.H./Viering M.G. (2021). [BELEG PRÜFEN: Seitenzahl — Wettbewerbs-/Kostendruck Bauwirtschaft]
-[11] Vgl. Pan Y./Zhang L. (2021). [BELEG PRÜFEN: Volltext — deckt die Quelle die Lücke „praxisnahe Implementierung im Projektcontrolling"? Falls nur allgemein KI im Baumanagement: Aussage abschwächen oder zweite Quelle (z.B. Abioye et al. 2021, Future Challenges) ergänzen]
+[11] Vgl. Haghsheno S. et al. (Hrsg., 2024). [BELEG PRÜFEN: Fundstelle im PDF — Einleitungs-/Grundlagenkapitel zur Lücke praxisnaher Implementierung; ggf. Abioye et al. (2021), Future Challenges, ergänzen. Geändert 13.07.2026 wegen Sprachregel: Pan/Zhang gestrichen]
 [12] Vgl. vom Brocke J. et al. (2009), S. 2206-2217. [Präzisierung der Fundstelle (Framework-Abschnitt) nach PDF-Eingang]
 [13] Vgl. Webster J./Watson R.T. (2002), S. xiii-xxiii. [Präzisierung der Fundstelle (Konzeptmatrix) nach PDF-Eingang]
 

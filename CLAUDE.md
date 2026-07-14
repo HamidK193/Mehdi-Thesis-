@@ -17,6 +17,7 @@ Bachelorarbeit "Implementierung von KI im operativen Projektcontrolling eines Ba
 
 - **Zitierweise:** Deutsche Fußnoten (Jahreszahl-Methode, "ebenda"), NICHT Harvard. Details in THESIS_PLAN.md Abschnitt 4.
 - **Schreibstil:** Menschlich, professionell, ohne KI-Merkmale (keine Gedankenstriche als Stilmittel, keine Floskeln, kein Ich/Wir). Regeln in `07_Skills/thesis-schreibstil/SKILL.md` — IMMER anwenden beim Schreiben.
+- **Sprachregel:** Primär deutschsprachige Quellen; Englisch nur als begründete Ausnahme (Methodikstandards, fehlendes deutsches Äquivalent).
 - **Recherche:** Jede Quelle vor Aufnahme verifizieren (Existenz, Daten, Aussage-Beleg). Regeln in `07_Skills/thesis-recherche/SKILL.md` — IMMER anwenden bei Recherche.
 - **Format:** Arial 12, 1,5-zeilig, Blocksatz, Ränder 2,5/2,0/4,0/2,0 cm, max. 4 Gliederungsebenen.
 - **Git:** Nach jedem abgeschlossenen Arbeitsschritt committen, am Sessionende pushen zu https://github.com/HamidK193/Mehdi-Thesis- (Token stellt Hamid bereit).

@@ -49,3 +49,10 @@
 | Gläser/Laudel 2010 | ❌ kein E-Book-Zugriff — Print ausleihen (nur bei WBL-Interview nötig) |
 | Yin 2018 | ❌ vermutlich nur Print |
 | Handelsblatt-Artikel ×2 | ❌ via Bibliotheks-Pressezugang oder Abo |
+
+## Sprachregel-Runde (13.07.2026): nur deutsche Quellen, wenige EN-Ausnahmen
+
+| Datum | Quelle/Datenbank | Suchstring | Treffer | Übernommen | Anmerkung |
+|---|---|---|---|---|---|
+| 13.07.2026 | Websuche | Roland Berger "Digitalisierung der Bauwirtschaft" PDF | 8 | 1 | Verifiziert, deutsches freies PDF; ersetzt McKinsey 2017 |
+| 13.07.2026 | Websuche | "Künstliche Intelligenz im Bauwesen" Springer Vieweg | 10 | 1 | Haghsheno et al. (Hrsg., 2024) verifiziert, DOI 10.1007/978-3-658-42796-2, 468 S., Volltext via Campuslizenz geladen; ersetzt Pan/Zhang |

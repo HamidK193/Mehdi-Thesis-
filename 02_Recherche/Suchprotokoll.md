@@ -41,7 +41,7 @@
 |---|---|
 | Fiedler 2020, Kochendörfer 2021, Girmscheid 2016, Girmscheid/Motzko 2013, Berner et al. 2025, Ertel 2025, Langmann 2019, Schneider 2025 | ✅ komplette Buch-PDFs (SpringerLink) |
 | Weber/Schäffer 2022, 17. Aufl. | ✅ kapitelweise via Inlibra: Titelei, Teil I-IV, Literaturverzeichnis |
-| Horváth/Gleich/Seiter — WICHTIG: 15. Aufl. 2024 im Bestand (nicht 14./2020) | ✅ kapitelweise via Inlibra: Titelei, Kap. 1-5, Literaturverzeichnis |
+| Horváth/Gleich/Seiter 15. Aufl. 2024 | ✅ KOMPLETT: Titelei, Kap. 1-5 (inkl. Kap. 3 am 13.07.), Literaturverzeichnis |
 | vom Brocke 2009, Abioye 2021, CRISP-DM 2000, McKinsey 2017, PwC 2020 | ✅ freie PDFs geladen |
 | Webster/Watson 2002 | ⚠️ AISeL-Klick ausgeführt, Ankunft im Download-Ordner prüfen |
 | Pan/Zhang 2021 (ScienceDirect) | ❌ CAPTCHA — Hamid manuell |

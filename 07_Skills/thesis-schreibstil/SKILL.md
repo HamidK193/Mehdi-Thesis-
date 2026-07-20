@@ -7,6 +7,15 @@ description: Menschlicher, professioneller wissenschaftlicher Schreibstil ohne K
 
 Deutscher wissenschaftlicher Stil auf hohem akademischem Niveau — präzise, sachlich, menschlich lesbar. Kein generischer KI-Duktus.
 
+## Zusatzregeln (Vorgabe Hamid, 13.07.2026, verbindlich)
+
+- Keine Semikolons. Stattdessen Punkt und neuer Satz.
+- Kurze, klare Sätze. Verschachtelte Satzstrukturen auflösen.
+- Zeitform: Präsens. Präteritum vermeiden, außer bei historischen Bezügen.
+- Keine Wiederholungen von Wörtern oder Aussagen in benachbarten Sätzen.
+- Präzise statt allgemein formulieren. Fachlich sicher und fundiert schreiben.
+- Selbstprüfung nach JEDER geschriebenen Seite: alle Regeln eingehalten? Wenn nein, Seite sofort überarbeiten, erst dann weiter.
+
 ## Grundregeln des Stils
 
 - Hochdeutsch, vollständige konkrete Sätze; keine zu langen Sätze (Faustregel: max. ~25 Wörter, Schachtelsätze auflösen).

@@ -4,7 +4,7 @@
 
 **Betriebsmodus:** Autonomer Thesis-Agent (docs/autonomer_thesis_agent_prompt.md) — einheitsweise schreiben, jede Einheit sofort adversarial prüfen, Fortschritt hier + in docs/memory/ protokollieren.
 
-**Phase:** Autonomes Arbeiten läuft. Erledigt: Recherche-Einheit 1 (12 Quellen verifiziert), Word-Hauptdokument (Formalia-konform, alle Kapitel als Gerüst), Kap. 1 Entwurf v3 (QS bestanden 12/12, 3 Iterationen). Als Nächstes: Recherche-Vervollständigung (Branchenstudien, FN7-Beleg), dann Kap. 2 sobald PDFs in 01_Literatur/PDFs/ liegen; Kap.-1-Fußnoten nach PDF-Eingang präzisieren ([BELEG PRÜFEN]-Marker). Arbeitsplan: docs/memory/arbeitsplan.md.
+**Phase:** Autonomes Schreiben läuft. Kap. 2.1 + 2.2 geschrieben (v1, Selbstprüfung ok, adversariale QS beider Einheiten ausstehend). Volltextsammlung komplett (27 PDFs inkl. Horváth Kap. 3 + Haghsheno). Nächster Schritt: QS 2.1+2.2, dann Exzerpieren+Schreiben 2.3/2.4, dann Kap. 3. Erledigt: Recherche-Einheit 1 (12 Quellen verifiziert), Word-Hauptdokument (Formalia-konform, alle Kapitel als Gerüst), Kap. 1 Entwurf v3 (QS bestanden 12/12, 3 Iterationen). Als Nächstes: Recherche-Vervollständigung (Branchenstudien, FN7-Beleg), dann Kap. 2 sobald PDFs in 01_Literatur/PDFs/ liegen; Kap.-1-Fußnoten nach PDF-Eingang präzisieren ([BELEG PRÜFEN]-Marker). Arbeitsplan: docs/memory/arbeitsplan.md.
 
 **Erledigt:**
 

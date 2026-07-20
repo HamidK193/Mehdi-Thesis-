@@ -24,6 +24,32 @@ Die Aufgabenteilung zwischen den Ebenen lässt sich klar beschreiben. Das strate
 
 ---
 
+## 2.2 Aufgaben und Instrumente des operativen Projektcontrollings
+
+Nach der Freigabe eines Projekts unterstützt das operative Projektcontrolling die detaillierte Projektplanung und die laufende Projektkontrolle. Es gestaltet und koordiniert die dafür notwendigen Aufgaben und stellt geeignete Instrumente bereit.[21] Planung und Kontrolle bilden dabei eine Einheit. Erst die Kontrolle zeigt, ob die Annahmen der Planung zutreffen und ob sich alle Beteiligten planmäßig verhalten.[22] Ein Controllingsystem umfasst vier Teilschritte. Auf die Planung der Sollwerte folgen der Soll-Ist-Vergleich, die Abweichungsanalyse und die Festlegung von Gegenmaßnahmen.[23] Im Bauunternehmen wird dieses System auf der operativen Ebene als Baustellencontrolling bezeichnet. Es verbindet die leistungsbezogene, terminliche und finanzielle Bewertung der abgelaufenen Projektperiode mit einer Prognose des Projektendergebnisses.[24] Die folgenden Unterabschnitte stellen die drei zentralen Aufgabenfelder vor.
+
+### 2.2.1 Termin- und Fortschrittscontrolling
+
+Der Bauablauf ist durch ständige Störeinflüsse gekennzeichnet. Auch eine gewissenhafte Ablaufplanung kann sie nicht ausschließen. Regelmäßige Terminkontrollen anhand der aktuellen Leistungsstände sind deshalb unverzichtbar.[25] Grundlage bildet die Ablaufplanung der vertraglich geschuldeten Leistung. Bei Störungen wie Entwurfsänderungen, Mengenabweichungen oder Behinderungen wird der Terminplan fortlaufend als neuer Sollstand fortgeschrieben.[26] Dem Termincontrolling kommt im Bau besonderes Gewicht zu. Bauzeitverzögerungen gehen meist mit erheblichen Kostensteigerungen einher.[27]
+
+Die Fortschrittskontrolle stellt den geplanten und den tatsächlich erreichten Leistungsfortschritt zu einem Stichtag gegenüber. Beruht die Erhebung auf der Befragung der Verantwortlichen, droht eine zu optimistische Einschätzung des Fertigstellungsgrads.[28] Kontrolliert werden Termine in der Regel mit Balkenplänen. Aussagekräftig wird die Kontrolle erst durch eine Prognose. Dazu wird die Restdauer geschätzt und mit der bisherigen Dauer zur voraussichtlichen Gesamtdauer verknüpft.[29] Der Balkenplan zeigt allerdings nur eine Momentaufnahme. Termin-Trenddiagramme machen sich anbahnende Verzögerungen früher sichtbar, weil sie die Plantermine jedes Berichtsmonats fortschreiben.[30] Dasselbe Prinzip nutzt die Meilensteintrendanalyse. Sie prognostiziert die Meilensteintermine in konstanten Abständen neu und zeigt Terminverzug als ansteigende Kurve.[31] Sind die Vorgänge in einem Netzplan verknüpft, lässt sich aus dem Leistungsstand zudem der Endtermin rechnerisch prognostizieren.[32] In der Baupraxis erstellt die Projektsteuerung alle zwei bis vier Wochen Terminkontrollberichte und stimmt Korrekturmaßnahmen in Steuerungsbesprechungen ab.[33]
+
+### 2.2.2 Kostencontrolling
+
+Die Kostenermittlung verläuft im Bauwesen stufenweise. Die DIN 276 sieht eine Folge von Kostenermittlungen mit zunehmender Genauigkeit vor, vom frühen Kostenrahmen bis zur Abrechnung.[34] Budgets werden häufig von oben auf Teilprojekte und Arbeitspakete verteilt. Ob sie ausreichen, zeigt erst eine frühe, detaillierte Kalkulation auf Arbeitspaketebene.[35] Im Bauunternehmen übernimmt diese Funktion die Arbeitskalkulation. Sie bereitet die Angebotskalkulation zu Leistungsvorgaben für die Bauproduktion auf und bildet die Basis der Soll-Ist-Analyse.[36] Das Baustellencontrolling arbeitet mit einer zweigliedrigen Arbeitskalkulation. Die eingefrorene Soll-Auftragskalkulation dient als Maßstab. Eine permanent fortgeschriebene Prognosekalkulation bildet den aktuellen Erwartungsstand ab.[37]
+
+Kern der laufenden Kostenkontrolle ist der monatliche Soll-Ist-Vergleich. Die stichtagsbezogene Ist-Leistungsmenge wird mit den Sollkostenansätzen bewertet und den Istkosten aus der Baubetriebsrechnung gegenübergestellt. Die Ist-Leistung liefert die Leistungsmeldung der Bauleitung. Probleme bereiten die Leistungsabgrenzung und die Genauigkeit der Leistungsermittlung. Beispiele sind geliefertes, aber noch nicht eingebautes Material und nicht abgerechnete Nachunternehmerleistungen.[38] Wegen des hohen Lohnanteils im deutschsprachigen Baumarkt kommt dem Stunden-Soll-Ist-Vergleich besondere Bedeutung zu.[39] Die Ergebnisse fließen in die kurzfristige Ergebnisrechnung der Baustelle ein. Wegen der vielfältigen Abstimmungen liegt diese in den meisten Bauunternehmen erst zwischen dem fünfzehnten und zwanzigsten Tag des Folgemonats vor.[40]
+
+Eine isolierte Gegenüberstellung von Plan- und Istkosten reicht für die Steuerung nicht aus. Aussagekräftig wird die Kostenkontrolle erst, wenn sie den Leistungsstand einbezieht.[41] Genau hier setzt die Earned-Value-Analyse an. Sie vergleicht die Istkosten mit dem Fertigstellungswert der erbrachten Leistung und dem Planwert. Aus den Abweichungen entstehen Kennzahlen wie der Cost Performance Index und der Schedule Performance Index. Diese erlauben bereits früh im Projektverlauf belastbare Aussagen und bilden die Grundlage für die Prognose der voraussichtlichen Gesamtkosten.[42] Werden beim Soll-Ist-Vergleich Abweichungen festgestellt, greift die Kostensteuerung ein. Sie wirkt als Regelkreis mit Anpassungsmaßnahmen wie Konstruktionsalternativen, Programmstraffung oder sorgfältiger Nachtragsprüfung.[43] Nach Projektabschluss sichert die Nachkalkulation die Erfahrungswerte. Sie verarbeitet die Soll-Ist-Vergleiche weiter und liefert Kennwerte für künftige Kalkulationen.[44]
+
+### 2.2.3 Risikocontrolling und Berichtswesen
+
+Projekte sind definitionsgemäß mit hohen Risiken behaftet. Ein systematisches Risikomanagement ist deshalb im Projektgeschäft besonders wichtig und wird durch gesetzliche Vorgaben zusätzlich gefordert.[45] Der Risikomanagementprozess umfasst mindestens vier Schritte. Risiken werden identifiziert, bewertet, mit Maßnahmen belegt und laufend überwacht. Standardisierte Risikokataloge aus früheren Projekten unterstützen die Identifikation.[46] Zur Überwachung gehört auch der Blick nach vorn. Die Kontrolle darf sich nicht auf den Vergleich von Plan und Ist beschränken. Sie muss als Plan-Wird-Vergleich absehbare Entwicklungen einbeziehen.[47] Als Instrument dafür dient der rollierende Forecast. Er arbeitet mit konstantem Zeithorizont, regelmäßiger Aktualisierung und bewusst begrenzter Detaillierung.[48]
+
+Das Berichtswesen führt die Ergebnisse aller Controllingaufgaben zusammen. Es muss drei Kriterien erfüllen. Berichte müssen aktuell sein, empfängergerecht verdichten und auf Entscheidungen ausgerichtet sein.[49] Bewährt hat sich die Unterteilung in Standard-, Abweichungs- und Sonderberichte. Abweichungsberichte erzeugen viele IT-Systeme automatisch und signalisieren Handlungsbedarf über Ampelfunktionen.[50] Im Bauunternehmen ist die monatliche Bauerfolgsrechnung der zentrale Bericht der Baustelle an die Niederlassungsleitung. Ohne saubere Abgrenzungen erscheint das Baustellenergebnis zunächst zu positiv und bricht später ein.[51] Die Wirkung des Berichtswesens bleibt in der Praxis begrenzt. Nach einer Umfrage wird nur die Hälfte der Seiten eines Controllingberichts aufmerksam gelesen.[52] Die vorgestellten Instrumente bilden den Werkzeugkasten des operativen Projektcontrollings. Wie stark ihre Wirkung von den Besonderheiten des Bauens abhängt, zeigt der folgende Abschnitt.
+
+---
+
 ## Fußnoten 2.1
 
 [1] Vgl. Horváth P./Gleich R./Seiter M. (2024), S. 11.
@@ -47,9 +73,51 @@ Die Aufgabenteilung zwischen den Ebenen lässt sich klar beschreiben. Das strate
 [19] Vgl. ebenda, S. 12.
 [20] Vgl. ebenda, S. 27 und S. 61.
 
+## Fußnoten 2.2
+
+[21] Vgl. Fiedler R. (2020), S. 61.
+[22] Vgl. Horváth P./Gleich R./Seiter M. (2024), S. 64 und S. 66.
+[23] Vgl. Berner F. et al. (2025), S. 60 f.
+[24] Vgl. Girmscheid G./Motzko C. (2013), S. 407.
+[25] Vgl. Kochendörfer B./Liebchen J.H./Viering M.G. (2021), S. 230.
+[26] Vgl. Berner F. et al. (2025), S. 162 f.
+[27] Vgl. ebenda, S. 62.
+[28] Vgl. Fiedler R. (2020), S. 133.
+[29] Vgl. ebenda, S. 140.
+[30] Vgl. ebenda, S. 141 f.
+[31] Vgl. Kochendörfer B./Liebchen J.H./Viering M.G. (2021), S. 232 f.
+[32] Vgl. ebenda, S. 231.
+[33] Vgl. ebenda, S. 230.
+[34] Vgl. ebenda, S. 260 f.
+[35] Vgl. Fiedler R. (2020), S. 101.
+[36] Vgl. Girmscheid G./Motzko C. (2013), S. 389 f.
+[37] Vgl. ebenda, S. 407 f.
+[38] Vgl. ebenda, S. 414 ff.
+[39] Vgl. ebenda, S. 417.
+[40] Vgl. Berner F. et al. (2025), S. 227 f.
+[41] Vgl. Fiedler R. (2020), S. 145.
+[42] Vgl. ebenda, S. 146 und S. 148 ff.
+[43] Vgl. Kochendörfer B./Liebchen J.H./Viering M.G. (2021), S. 277 f.
+[44] Vgl. Girmscheid G./Motzko C. (2013), S. 128 f.
+[45] Vgl. Fiedler R. (2020), S. 112.
+[46] Vgl. ebenda, S. 113 f.
+[47] Vgl. Horváth P./Gleich R./Seiter M. (2024), S. 99.
+[48] Vgl. ebenda, S. 86 f.
+[49] Vgl. Fiedler R. (2020), S. 166 f.
+[50] Vgl. ebenda, S. 167.
+[51] Vgl. Girmscheid G./Motzko C. (2013), S. 412 f.
+[52] Vgl. Fiedler R. (2020), S. 167.
+
 ## Selbstprüfung (Seitenregel Hamid, nach jeder Seite)
 
 Seite 1 (2.1.1 Abs. 1-2): keine Semikolons ✓, Präsens ✓, kein Ich/Wir ✓, keine Gedankenstriche ✓, kurze Sätze ✓, jede Kernaussage belegt ✓ — bestanden.
 Seite 2 (2.1.1 Abs. 3-4): keine Semikolons ✓, Präsens ✓, ebenda-Regel korrekt ✓, keine Wortwiederholungen in Nachbarsätzen geprüft ✓ — bestanden.
 Seite 3 (2.1.2): keine Semikolons ✓, Präsens ✓, roter Faden zur Forschungsfrage am Abschnittsende explizit ✓, Überleitung zu 2.2 ✓ — bestanden.
 Alle Belege stammen ausschließlich aus 02_Recherche/Kap2_Belegnotizen.md (Seitenzahlen dort einzeln gegen die PDFs verifiziert).
+
+Selbstprüfung 2.2 (Seitenregel):
+Seite 1 (Einleitung + 2.2.1 Abs. 1): keine Semikolons ✓, Präsens ✓, kurze Sätze ✓, kein Ich/Wir ✓, keine Gedankenstriche ✓, alle Aussagen belegt ✓ — bestanden.
+Seite 2 (2.2.1 Abs. 2 + 2.2.2 Abs. 1): keine Semikolons ✓, Präsens ✓, ebenda-Ketten korrekt (Quelle wechselt nie unbemerkt) ✓, Fachbegriffe konsistent (Arbeitskalkulation, Soll-Ist-Vergleich) ✓ — bestanden.
+Seite 3 (2.2.2 Abs. 2-3): keine Semikolons ✓, Präsens ✓, keine Wortwiederholungen in Nachbarsätzen (geprüft: Kosten-Komposita variiert) ✓ — bestanden.
+Seite 4 (2.2.3): keine Semikolons ✓, Präsens ✓, roter Faden (Werkzeugkasten-Fazit + Überleitung zu 2.3) ✓ — bestanden.
+Status 2.2: v1 geschrieben, Selbstprüfung bestanden, adversariale QS ausstehend (zusammen mit 2.1 im nächsten Prüflauf).
